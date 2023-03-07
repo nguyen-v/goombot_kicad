@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "0_power_protection")(type "KiCad")(uri "${KIPRJMOD}/lib/lib_sym/0_power_protection.kicad_sym")(options "")(descr ""))
+)
