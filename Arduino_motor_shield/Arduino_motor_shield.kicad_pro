@@ -461,7 +461,7 @@
       "idf": "",
       "netlist": "Arduino_motor_shield.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "step/Arduino_motor_shield.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
